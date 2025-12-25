@@ -1,6 +1,7 @@
 /*
 QUESTION:-
-Given an array "ARR' containing 'N' elements, rotate this array Left by once means to shift all elements by one place to the left and move the first element to the last position in the array.
+Given an array "ARR' containing 'N' elements, rotate this array Left by once means to shift all elements by one place to the left and move the
+first element to the last position in the array.
 
 Example:
 Input: 'N' 5, 'ARR' = [1, 2, 3, 4, 5]
